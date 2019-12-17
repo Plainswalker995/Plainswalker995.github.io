@@ -1,0 +1,8 @@
+.jumbotron {
+    background: url('../assests/Japan.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 50vh;
+}
